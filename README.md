@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-### 📊 GitHub Activity
+### 👨‍💻 GitHub Activity
 <p align="center">
   <a href="https://github.com/jasurbekboymurotov46-cloud">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jasurbekboymurotov46-cloud&theme=tokyonight&hide_border=true&background=0D1117" alt="Jasur's GitHub Streak" />
