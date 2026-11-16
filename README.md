@@ -28,9 +28,7 @@
 
 ### 📊 GitHub Activity
 <p align="center">
-  <a href="https://github.com/jasurbekboymurotov46-cloud">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jasurbekboymurotov46-cloud&theme=tokyonight&hide_border=true&background=0D1117" alt="Jasur's GitHub Streak" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=jasurbekboymurotov46-cloud&show_icons=true&theme=tokyonight&hide_border=true" alt="Jasur's GitHub Stats" />
 </p>
 
 ### 📫 Contact Me
