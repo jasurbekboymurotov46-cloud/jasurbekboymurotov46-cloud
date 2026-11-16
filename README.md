@@ -1,4 +1,4 @@
-<h1 align="center">Salom, Men Jasurman! 👋</h1>
+<h1 align="center">Salom, Men Jasurman! </h1>
 <h3 align="center">Samarqand Davlat Universiteti (Sun'iy intellekt va raqamli texnologiyalar) 4-bosqich talabasiman.</h3>
 
 <p align="center">
