@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Jasur! 👋</h1>
+<h1 align="center">Hi there, I'm Jasur! </h1>
 <h3 align="center">4th-year student of AI and Digital Technologies at Samarkand State University.</h3>
 
 <p align="center">
@@ -29,7 +29,7 @@
 ### 📊 GitHub Activity
 <p align="center">
   <a href="https://github.com/jasurbekboymurotov46-cloud">
-  <img src="https://github-readme-stats.vercel.app/api?username=jasurbekboymurotov46-cloud&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Jasur's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jasurbekboymurotov46-cloud&theme=tokyonight&hide_border=true&background=0D1117" alt="Jasur's GitHub Streak" />
   </a>
 </p>
 
